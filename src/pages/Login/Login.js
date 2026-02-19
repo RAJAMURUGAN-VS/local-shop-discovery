@@ -1,0 +1,10 @@
+import './Login.css'
+import {Component} from 'react'
+
+class Login extends Component {
+  render() {
+    return <div className="login-container">Login</div>
+  }
+}
+
+export default Login
